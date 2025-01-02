@@ -1,0 +1,19 @@
+Ë
+    Œ«ÄfC  ã                   ó   — d dl mZ ddlmZmZmZ  ej                  e«       G d„ dej                  «      «       Z ej                  e«       G d„ d ej                  «      «       Z	 ej                  e«       G d„ d	ej                  «      «       Z
+y
+)
+é    )Úadminé   )ÚCartÚOrdersÚ
+OrderItemsc                   ó   — e Zd ZdZy)Ú	CartAdmin)ÚidÚusernameÚfoodÚquantityN©Ú__name__Ú
+__module__Ú__qualname__Úlist_display© ó    ú,D:\c3\canteen_ordering_system\order\admin.pyr	   r	      s    „ à9Lr   r	   c                   ó   — e Zd ZdZy)Ú
+OrdersAdmin)r
+   r
+   Útotal_amountÚorder_datetimeÚpayment_modeÚstatusÚtransaction_idÚpayment_gatewayNr   r   r   r   r   r   	   s
+   „ ğ GLr   r   c                   ó   — e Zd ZdZy)ÚOrderItemsAdmin) r
+   r
+   ÚorderÚnameÚpricer
+   Ú
+item_totalNr   r   r   r   r   r   
+   s    „ àYLr   r   N)
+Údjango.contribr   Úmodelsr   r   r    ÚregisterÚ
+ModelAdminr	   r   r   r   r   r   ú<module>r(      s˜   ğİ  ß ,Ñ ,ğ €‡Óô:× Ñ ó :ó ğ:ğ €‡ÓôG%×"Ñ"ó Gó ğGğ €‡
+ÓôZe×&Ñ&ó Zó ñZr   

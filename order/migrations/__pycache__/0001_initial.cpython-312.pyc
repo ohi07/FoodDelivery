@@ -1,0 +1,24 @@
+к
+    -▓Аf┬  Ц                   СR   ≈ d dl mZ d dlmZmZ d dlZ G d└ dej                  ╚      Z y)И    )зsettings)з
+migrationsзmodelsNc            
+       Ст  ≈ e Zd ZdZd ej
+                  ej                  ╚      gZ ej                  dd e
+j                  dddd╛ ╚      fd e
+j                  d╛	╚      fd
+ e
+j                  ej                  j                  j                   j"                  d
+╛╚      fd
+ e
+j                  ej                  j                  j                   j"                  ej                  ╛╚      fg╛╚      gZy)з	MigrationT)з
+restaurantз0001_initialзCartзidFзID)зauto_createdз
+primary_keyз	serializeзverbose_nameз is_paid)з defaultзfoodzrestaurant.fooditem)з	on_deleteзtoзusername)зnameзfieldsN)з__name__з
+__module__з__qualname__з initialr   зswappable_dependencyr   зAUTH_USER_MODELзdependenciesз
+CreateModelr   зBigAutoFieldзBooleanFieldз
+ForeignKeyзdjangoзdbзdeletionз CASCADEз
+operations╘ С    З5D:\c3\cse370_project\order\migrations\0001_initial.pyr    r       sБ   └ Ю─GП 	'ь'┬
+в'я'╗в(@я(@сAП─LП 	┬
+вяьЮп*░vв*я*╦х$пZ_пnrтsпtьп/≤Fв/я/╦т>п?ьп*≤в*я*╟V╥Y╠Yв5Eя5Eв5Nя5Nв5Vя5Vп[pтqпrьп.≤Vв.я.╦©╧в9Iя9Iв9Rя9Rв9Zя9Zп_gв_wя_wтxпyП	Т	
+П
+│Jr*   r    )з
+django.confr   з	django.dbr   r   зdjango.db.models.deletionr$   r    r)   r*   r+   З<module>r/      s"   ПУ !ъ (ш  Т░
+в$я$У r*   

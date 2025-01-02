@@ -1,0 +1,17 @@
+Ë
+    
+’áf•  ã                   ób   — d Z ddlZddlmZ ej                  j
+                  dd«        e«       Zy)zŞ
+WSGI config for restaurant_sys project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/4.1/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzrestaurant_sys.settings) Ú __doc__ÚosÚdjango.core.wsgir   Ú environÚ
+setdefaultÚ
+application© ó    ú+D:\c3\cse370_project\restaurant_sys\wsgi.pyú<module>r      s0   ğñ ó 
+å 1à ‡
+
+× Ñ Ğ.Ğ0IÔ Já"Ó$
+r   

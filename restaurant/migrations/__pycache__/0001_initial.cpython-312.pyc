@@ -1,0 +1,20 @@
+Ë
+    Œ«Äf¤  ã                   ó>   — d dl mZmZ  G d„ dej                  «      Zy)é    )Ú
+migrationsÚmodelsc            
+       ó  — e Zd ZdZg Z ej                  dd e j                  dddd¬«      fd  e j                  d¬	«      fd
+ e j                  «       fd
+ e j                  d¬	«      fd
+ e j                  d¬«      fg¬«      gZy)Ú	MigrationTÚFoodItemÚidFÚID)Úauto_createdÚ
+primary_keyÚ	serializeÚverbose_nameÚnameé2   )Ú
+max_lengthÚpriceÚ
+descriptioniˆ  ÚimageÚfood_pic)Ú	upload_to)r   ÚfieldsN)
+Ú__name__Ú
+__module__Ú__qualname__Ú initialÚdependenciesr   Ú
+CreateModelr   ÚBigAutoFieldÚ	CharFieldÚIntegerFieldÚ
+ImageFieldÚ
+operations© ó    ú@D:\c3\canteen_ordering_system\canteen\migrations\0001_initial.pyr   r      s£   „ à€Gğ€Lğ 	ˆ
+×ÑØàĞ*v×*Ñ*¸È$ĞZ_ĞnrÔsĞtØĞ)˜×)Ñ)°RÔ8Ğ9ØĞ-˜&×-Ñ-Ó/Ğ0ØĞ 0 × 0Ñ 0¸DÔ AĞBØĞ+˜&×+Ñ+°jÔAĞBğ
+ô		
+ğ
+Jr#   r   N)Ú	django.dbr   r   r   r"   r#   r$   ú<module>r&      s   ğ÷ )ô
+×$Ñ$õ r#   

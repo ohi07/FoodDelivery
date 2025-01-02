@@ -1,0 +1,29 @@
+Ë
+    Œ«Äf  ã                   ó>   — d dl mZmZ  G d„ dej                  «      Zy)é    )Ú
+migrationsÚmodelsc                   ó*  — e Zd ZdgZ ej
+                  dd¬«       ej                  dd e j                  d d¬	«      d
+¬
+«       ej                  dd e j                  d
+d¬	«      d
+¬
+«       ej                  dd e j                  g d¢dd¬«      ¬«      gZ
+y)Ú	Migration)ÚorderÚ0003_orders_orderitemsÚcartÚ is_paid)Ú
+model_nameÚnameÚordersÚpayment_gatewayÚ é2   )Ú defaultÚ
+max_lengthF)r
+   r   ÚfieldÚpreserve_defaultÚtransaction_idú éd   Ústatus))Ú Pendingr   )ÚAcceptedr   )Ú Cookingr   )ÚPackedr   )Ú	Completedr   r   )Ú choicesr   r   )r
+   r   r   N)
+Ú__name__Ú
+__module__Ú__qualname__Údependenciesr   Ú
+RemoveFieldÚAddFieldr   Ú	CharFieldÚ
+AlterFieldÚ
+operations© ó    újD:\c3\canteen_ordering_system\order\migrations\0004_remove_cart_is_paid_orders_payment_gateway_and_more.pyr   r      sÄ   „ ğ 	,ğ€Lğ
+ 	ˆ
+×ÑØØô	
+ğ 	ˆ
+×ÑØØ"Ø"&×"Ñ"¨2¸"Ô=Ø"ô		
+ğ 	ˆ
+×ÑØØ!Ø"&×"Ñ"¨3¸3Ô?Ø"ô		
+ğ 	ˆ
+×ÑØØØ"&×"Ñ"ò  ,hğ  r{ğ  HJô  Kô 	
+ğ#Jr)   r   N)Ú	django.dbr   r   r   r(   r)   r*   ú<module>r,      s   ğ÷ )ô
+×$Ñ$õ r)   

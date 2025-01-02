@@ -1,0 +1,23 @@
+Ë
+    Ê˜áf  ã                   ó  — d dl mZ ddlmZ d dlmZ d dlm Z   edej                  d ¬«       ed	ej                  d
+¬«       ed
+ej                  d¬«       ed
+ej                  d¬«       edej                  d¬«       edej                  d¬«       edej                  d¬«       edej                  d¬«       edej                   d¬«       edej"                  d¬«      g
+ e ej$                  ej&                  ¬«      z   Zy)é    )Úpathé   )Úviews)Úsettings)ÚstaticÚ Úindex)Únamez	register/Úregisterzlogin/Úloginzupdate-cart/<int:f_id>z
+update-cartzcart/Úcartz	checkout/Úcheckoutz	myorders/z	my-orderszprofile/Ú profilezdelete-profile/zdelete-profilez logout/Úlogout)Ú
+document_rootN)Ú
+django.urlsr   r   r   Ú
+django.confr   Údjango.conf.urls.staticr    r	   r
+   Ú
+user_loginÚ
+update_cartr
+   r   Ú	my_ordersr   Údelete_profileÚ
+user_logoutÚ	MEDIA_URLÚ
+MEDIA_ROOTÚ
+urlpatterns© ó    ú"D:\c3\cse370_project\order\urls.pyú<module>r       sã   ğİ İ İ  İ *ñ 	ˆˆU[‰[˜wÔ'Ùˆe—n‘n¨:Ô6Ùˆ5×#Ñ#¨'Ô2ÙĞ	! 5×#4Ñ#4¸=ÔIÙˆ%—*‘* 6Ô*Ùˆe—n‘n¨:Ô6Ùˆe—o‘o¨KÔ8ÙˆU—]‘]¨Ô3ÙĞ	˜E×0Ñ0Ğ7GÔHÙˆE×%Ñ%¨HÔ5ğ
+ñ 
+ˆ8×
+Ñ
+¨X×-@Ñ-@ÔAñ
+B
+r   

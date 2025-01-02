@@ -1,0 +1,25 @@
+Ë
+    6‚áfZ  ã                   óR   — d dl Zd dlmZ d dlmZmZ  G d„ dej                  «      Z y)é    N)Úsettings)Ú
+migrationsÚmodelsc            
+       óŞ  — e Zd Zd ej                  ej                  «      gZ  ej                  dd e	j                  dddd¬ «      fd e	j                  dd	d¬
+«      fd
+ e	j                  ddd¬
+«      fd
+ e	j                  ddd¬
+«      fd e	j                  ddd¬
+«      fd e	j                  e
+j                  j                  j                  j                   ej                  ¬«      fg¬«      gZy)Ú	Migration)ÚorderÚ80004_remove_cart_is_paid_orders_payment_gateway_and_moreÚ
+UserProfileÚidTFÚID)Úauto_createdÚ
+primary_keyÚ	serializeÚverbose_nameÚphoneé   )ÚblankÚ
+max_lengthÚnullÚstreetéd   ÚroadÚ	apartmentÚuser)Ú	on_deleteÚto)ÚnameÚfieldsN)Ú__name__Ú
+__module__Ú__qualname__r   Úswappable_dependencyr   ÚAUTH_USER_MODELÚdependenciesÚ
+CreateModelr   ÚBigAutoFieldÚ	CharFieldÚ
+OneToOneFieldÚdjangoÚdbÚdeletionÚ CASCADEÚ
+operations© ó    úBD:\c3\canteen_ordering_system\order\migrations\0005_userprofile.pyr    r       s  „ ğ 	NØ'ˆ
+×'Ñ'¨×(@Ñ(@ÓAğ€Lğ 	ˆ
+×ÑØàĞ*v×*Ñ*¸È$ĞZ_ĞnrÔsĞtØĞ*˜&×*Ñ*°À"È4ÔPĞQØĞ+˜6×+Ñ+°$À3ÈTÔRĞSØĞ)˜×)Ñ)°ÀÈ4ÔPĞQØĞ.˜f×.Ñ.°TÀcĞPTÔUĞVØĞ-˜×-Ñ-¸¿	¹	×8HÑ8H×8QÑ8Q×8YÑ8YĞ^f×^vÑ^vÔwĞxğ
+ ô
+	
+ğJr/   r    )Údjango.db.models.deletionr)   Ú
+django.confr   Ú	django.dbr   r   r    r.   r/   r0   ú<module>r4      s"   ğó !İ  ß (ô
+×$Ñ$õ r/   
